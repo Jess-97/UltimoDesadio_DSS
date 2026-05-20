@@ -34,5 +34,10 @@ Se utiliza MySQL con migraciones y tablas relacionadas.
 - php artisan serve
 
 ## 👨‍💻 Autoras
-Jessica Paola Alvarez Sanchez. AS241238
-Gisselle Esmeralda Rodriguez Benitez. RB243017
+- Jessica Paola Alvarez Sanchez. AS241238
+- Gisselle Esmeralda Rodriguez Benitez. RB243017
+
+##Diagramas ER
+
+https://drive.google.com/file/d/15jrX5rrX2I7PGcbXuSPigmSE6mSEu4_B/view?usp=sharing
+
